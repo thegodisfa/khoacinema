@@ -19,7 +19,7 @@
         4.In component I used useSelector to get value from reducer to render it into website
     - hook useEffect: used to call action every time the page load
  
-## How I setup it
+## How I make it
     1. used create-react-app to create react app
     2. create folder like page, components, redux, services, templates, util
         page: contain detail page of it
@@ -27,7 +27,7 @@
         redux: to store value also call API
         services: contain type of API & url, make process of dispatch become easier
         util: contain import file
-    3. import all the technical used above
+    3. import all the technical used abovegit commit -m "first commit"
     4. setup store for redux and using react-router-dom(v5) to setup app.js & index.js
     5. create all page of website with ant and tailwindcss for styling with example value
     6. using redux-thunk & axios &  react-redux & useEffect to get value from back-end
@@ -39,4 +39,20 @@
     7. deploy website by using surge
     8. push it into github"# khoacinema"
  
+ ## Instalation
+ 1.Install this code on your local system
+Fork this repository (click 'Fork' button in top right corner)
 
+Clone the forked repository on your local file system
+ ```
+ cd /path/to/install/location
+ git clone https://github.com/[your_username]/khoacinema.git
+```
+2.Install dependencies
+```
+npm i
+```
+3.Start projectgit
+```
+npm run start
+```
