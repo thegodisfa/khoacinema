@@ -18,7 +18,11 @@
         3.then I dispatch it to reducer, then I update state in reducer,
         4.In component I used useSelector to get value from reducer to render it into website
     - hook useEffect: used to call action every time the page load
+    
+#### Pre-installation
 
+- Ensure [Node.js  >=18.12](https://nodejs.org/en/download/), [NPM](https://docs.npmjs.com) and [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) are installed on your system
+- 
 ## Instalation
  1.Install this code on your local system
 Fork this repository (click 'Fork' button in top right corner)
