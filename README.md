@@ -18,7 +18,25 @@
         3.then I dispatch it to reducer, then I update state in reducer,
         4.In component I used useSelector to get value from reducer to render it into website
     - hook useEffect: used to call action every time the page load
- 
+
+## Instalation
+ 1.Install this code on your local system
+Fork this repository (click 'Fork' button in top right corner)
+
+Clone the forked repository on your local file system
+ ```
+ cd /path/to/install/location
+ git clone https://github.com/[your_username]/khoacinema.git
+```
+2.Install dependencies
+```
+npm i
+```
+3.Start projectgit
+```
+npm run start
+```
+
 ## How I make it
     1. used create-react-app to create react app
     2. create folder like page, components, redux, services, templates, util
@@ -39,20 +57,4 @@
     7. deploy website by using surge
     8. push it into github"# khoacinema"
  
- ## Instalation
- 1.Install this code on your local system
-Fork this repository (click 'Fork' button in top right corner)
-
-Clone the forked repository on your local file system
- ```
- cd /path/to/install/location
- git clone https://github.com/[your_username]/khoacinema.git
-```
-2.Install dependencies
-```
-npm i
-```
-3.Start projectgit
-```
-npm run start
-```
+ 
