@@ -22,7 +22,7 @@
 #### Pre-installation
 
 - Ensure [Node.js  >=18.12](https://nodejs.org/en/download/), [NPM](https://docs.npmjs.com) and [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) are installed on your system
-- 
+ 
 ## Instalation
  1.Install this code on your local system
 Fork this repository (click 'Fork' button in top right corner)
